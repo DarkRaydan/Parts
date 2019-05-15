@@ -14,6 +14,12 @@
 **Протестировано на:**
 Tomcat 9.0.19, 
 MySQL 8.0, 
-Spring 4.3, 
-Hibernate 5.3
+
+**Использованы технологии:**
+Java 8, 
+Spring, 
+Hibernate, 
+HTML, 
+AngularJS.
+
 
